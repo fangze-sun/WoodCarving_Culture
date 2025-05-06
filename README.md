@@ -1,6 +1,10 @@
 # Analysis on Promotion of Intangible Wood-Carving Culture Heritage
 @Author: Fangze Sun
 
+## Introduction
+## Output
+- To see detailed code and insights, [**CLICK HERE**](https://github.com/fangze-sun/WoodCarving_Culture/blob/main/%20Data_Analysis_on_WoodCarving_Culture_Heritage.ipynb)
+
 ## Goal
 - To analyze the promotion and dissemination of intangible wood carving culture heritage on Chinese social media platform.
 - To investigate the growth trend of public's attention to intangible wood carving culture heritage.
